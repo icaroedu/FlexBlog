@@ -2,6 +2,9 @@
 
 Este repositório contém o projeto **FlexBlog**, desenvolvido como parte dos estudos de **Flexbox** através dos cursos da [Origamid](https://www.origamid.com/).
 
+![alt text](img1.png)
+![alt text](img2.png)
+
 O objetivo deste projeto foi aplicar os conceitos de:
 
 - Alinhamento e distribuição de itens (`justify-content`, `align-items`).
